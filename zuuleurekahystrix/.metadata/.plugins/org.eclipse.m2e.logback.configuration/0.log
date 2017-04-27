@@ -1,0 +1,237 @@
+2017-04-26 12:32:40,637 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:32:43,401 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:32:44,059 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:32:46,098 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-hystrix-monitor/src/main/java
+2017-04-26 12:32:46,098 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sample-hystrix-monitor/src/main/resources
+2017-04-26 12:32:46,098 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sample-hystrix-monitor/src/main/resources
+2017-04-26 12:32:46,098 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-hystrix-monitor/src/test/java
+2017-04-26 12:32:46,534 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2017-04-26 12:32:46,534 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2017-04-26 12:32:46,534 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2017-04-26 12:32:46,535 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2017-04-26 12:32:46,640 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:32:47,560 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/main/java
+2017-04-26 12:32:47,560 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2017-04-26 12:32:47,560 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2017-04-26 12:32:47,561 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/test/java
+2017-04-26 12:32:48,033 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 13 sec
+2017-04-26 12:32:48,147 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:32:49,875 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:32:53,917 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:32:53,937 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:32:53,947 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:32:53,953 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:32:53,953 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:32:55,059 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:32:56,336 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:32:56,337 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:32:56,338 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:32:56,341 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:32:56,342 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:32:58,240 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:32:58,240 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:32:58,241 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:32:58,243 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:32:58,243 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:32:59,648 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:33:00,737 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:33:01,215 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:33:03,913 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:03,914 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:03,914 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:03,915 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:03,915 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:33:04,774 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:04,774 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:04,774 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:04,775 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:04,775 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:33:05,641 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:05,642 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:05,642 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:05,643 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:05,643 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:33:31,667 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:33:32,511 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:33:32,854 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:33:34,886 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:34,887 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:34,887 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:34,889 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:34,889 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:33:35,919 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:35,920 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:35,920 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:35,921 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:35,921 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:33:36,750 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:36,751 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:36,751 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:33:36,752 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:33:36,752 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:34:12,752 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:12,752 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:12,752 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:12,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:12,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:34:12,842 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:12,844 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:34:12,855 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:34:12,858 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:12,858 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:34:13,184 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:13,184 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:13,184 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:13,185 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:13,186 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:34:33,051 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:33,052 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:34:33,053 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:33,055 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:33,055 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:34:33,103 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:33,103 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:33,103 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:33,105 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:33,105 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:34:33,110 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:33,110 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:33,110 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:33,111 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:33,111 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:34:48,462 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:34:49,612 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:49,613 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:34:49,614 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:34:49,615 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:34:49,615 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:35:12,031 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:35:13,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:13,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:35:13,207 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:35:13,209 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:13,209 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:35:36,015 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:35:37,071 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:37,071 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:35:37,072 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:35:37,072 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:37,073 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:35:47,387 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-26 12:35:47,761 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:35:48,576 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:35:48,955 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:35:49,804 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2017-04-26 12:35:49,804 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2017-04-26 12:35:49,804 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2017-04-26 12:35:49,805 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2017-04-26 12:35:49,967 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-hystrix-monitor/src/main/java
+2017-04-26 12:35:49,967 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sample-hystrix-monitor/src/main/resources
+2017-04-26 12:35:49,967 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sample-hystrix-monitor/src/main/resources
+2017-04-26 12:35:49,981 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-hystrix-monitor/src/test/java
+2017-04-26 12:35:50,142 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/main/java
+2017-04-26 12:35:50,142 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2017-04-26 12:35:50,142 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-server/src/main/resources
+2017-04-26 12:35:50,142 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-server/src/test/java
+2017-04-26 12:35:50,615 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-26 12:35:51,325 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-26 12:35:52,033 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-26 12:35:52,569 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-04-26 12:35:53,663 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:53,664 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:35:53,665 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:35:53,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:53,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-26 12:35:54,561 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:54,561 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:35:54,562 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:35:54,565 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:54,565 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 12:35:55,485 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:55,485 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 12:35:55,486 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 12:35:55,488 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 12:35:55,488 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-26 12:36:09,559 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-26 12:36:25,097 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-26 12:36:35,952 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\eureka-server
+2017-04-26 12:36:35,953 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-26 12:36:56,073 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-26 12:37:04,717 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor
+2017-04-26 12:37:04,718 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-26 12:37:22,537 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-26 12:37:30,847 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\zuul-server
+2017-04-26 12:37:30,848 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-26 13:10:18,540 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-26 13:10:18,624 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\eureka-server
+2017-04-26 13:10:18,624 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-26 13:10:36,949 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-26 13:10:36,964 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor
+2017-04-26 13:10:36,964 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-26 13:10:54,605 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-26 13:10:54,622 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\zuul-server
+2017-04-26 13:10:54,622 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-26 18:51:33,579 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 18:51:34,754 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 18:51:34,754 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 18:51:34,842 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 18:51:34,842 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-26 18:51:52,217 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 18:51:52,221 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-26 18:51:53,646 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-26 18:51:53,656 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-26 18:51:53,656 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-27 12:06:52,409 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:spring-cloud-eureka-example:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\eureka-server\pom.xml.
+2017-04-27 12:06:54,779 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:sample-hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-27 12:06:55,746 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.exampledriven:zuul-server:0.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\zuul-server\pom.xml.
+2017-04-27 12:07:00,152 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:00,168 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:07:00,168 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 12:07:00,183 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:00,183 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-27 12:07:01,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:01,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:07:01,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:07:01,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:01,712 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-27 12:07:02,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:02,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:07:02,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 12:07:02,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:02,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
+2017-04-27 12:07:44,955 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.bk:hystrix-monitor:1.0.1-SNAPSHOT @ D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\pom.xml.
+2017-04-27 12:07:46,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:46,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 12:07:46,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 12:07:46,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:07:46,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-27 12:12:58,259 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-27 12:12:58,454 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\eureka-server
+2017-04-27 12:12:58,454 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-27 12:13:16,877 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-27 12:13:17,047 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor
+2017-04-27 12:13:17,048 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-27 12:13:38,673 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-04-27 12:13:38,693 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\zuul-server
+2017-04-27 12:13:38,694 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" spring-boot:run
+2017-04-27 12:32:36,455 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\eureka-server
+2017-04-27 12:32:36,523 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" clean
+2017-04-27 12:32:40,670 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:32:40,683 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:32:40,685 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 12:32:40,692 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:32:40,692 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\eureka-server\src\test\resources
+2017-04-27 12:32:42,249 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor
+2017-04-27 12:32:42,249 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" clean
+2017-04-27 12:32:45,594 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:32:45,595 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:32:45,596 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:32:45,618 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:32:45,618 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\sample-hystrix-monitor\src\test\resources
+2017-04-27 12:32:48,334 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\workspace\zuul,eureka,hystrix server\zuul-server
+2017-04-27 12:32:48,334 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "D:\Repository\spring boot repository\settings1.xml" clean
+2017-04-27 12:32:50,053 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:32:50,054 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-27 12:32:50,055 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-27 12:32:50,057 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-27 12:32:50,057 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace\zuul,eureka,hystrix server\zuul-server\src\test\resources
